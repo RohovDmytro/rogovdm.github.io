@@ -1,0 +1,5 @@
+@import "http://webfonts.ru/import/neris.css";
+
+h1, h2, p, li {
+    font-family: Neris, "Times New Roman", Georgia, Serif;
+}
